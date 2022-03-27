@@ -1,5 +1,5 @@
-# Istio
-Learning Track for Istio Service Mesh: Total 24 hrs 
+# Istio - Total 24 hrs
+Learning Track for Istio Service Mesh:  
 
 1. Understanding Envoy Proxy and Sidecar pattern  - 2 Hrs
 2. *Microservice Architectures* and need of Service Mesh.  - 2 Hrs
