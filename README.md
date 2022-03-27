@@ -10,7 +10,7 @@ Learning Track for Istio Service Mesh:
 7. Deploying Canary Releases - Using Istio for traffic shifting for canary releases - 2 Hrs
 8. Reliabilty - Simulating failures, Timeouts between Microservice, Circuit Breakers - 2 Hrs
 9. Security - Authentication and Authorization Policies - mTLS -  2 Hrs
-10. Observability - Logging, Tracing, Telemetry with Metrics with Prometheus and Grafana, Visulaizing Microservices - 2 Hrs
+10. Observability - Logging, Tracing, Telemetry with Metrics with Prometheus and Grafana, Visualizing Microservices - 2 Hrs
 11. Extending Istio/Envoy with WASM - 4 Hrs
 
 ## Capstone Project:
