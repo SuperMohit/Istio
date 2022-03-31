@@ -1,4 +1,4 @@
-# Istio - Total 24 hrs
+# Istio - Total 16 hrs + 8 hrs of project
 Learning Track for Istio Service Mesh:  
 
 1. Understanding Envoy Proxy and Sidecar pattern  - 2 Hrs
